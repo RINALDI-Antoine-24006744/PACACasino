@@ -1,0 +1,8 @@
+body {
+  background-color: black
+    
+}
+.fond {
+  background: url('cannes.jpg')center/cover;
+  height: 280px;
+}

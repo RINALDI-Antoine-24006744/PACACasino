@@ -1,0 +1,33 @@
+body {
+  background-color: black
+    
+}
+.fond {
+  background: url('monaco.jpg')center/cover;
+  height: 280px;
+}
+
+h1 {
+  color : #D4AF37; 
+}
+h2 {
+  color : #D4AF37;
+}
+
+h3 {
+  color :white;
+
+}
+
+nav a {
+margin-left: 20px;
+font-weight: bold;
+}
+
+.photo {
+  margin-right: 47px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,0.7)),
+    url("monaco.jpg");
+}
